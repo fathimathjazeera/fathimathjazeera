@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fathimath Jazeera</h1>
 <h3 align="center">MERN Stack developer</h3>
-
+<img alt='Coding' width=400 align='right' src='https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp' />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimathjazeera&label=Profile%20views&color=0e75b6&style=flat" alt="fathimathjazeera" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
