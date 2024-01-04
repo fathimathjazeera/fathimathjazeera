@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/564x/51/13/0e/51130e50c2e6b400d16ea88cd6b14f4c.jpg)
 <h1 align="center">Hi 👋, I'm Fathimath Jazeera</h1>
 <h3 align="center">MERN Stack developer</h3>
 <img alt='Coding' width=400 align='right' src='https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp' />
